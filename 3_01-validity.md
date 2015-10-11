@@ -39,29 +39,3 @@ Or even: *Every* argument with true premises and a false conclusion is *invalid*
 |A False Premise  |Some Valid, Some not		|Some Valid. Some not |
 
 *An argument with a false premise can still be valid*
-
--------------------------------------------------------------------
-- 1 Most professors agree that they are paid too little TRUE
-- 2∴ so they are paid too little. FALSE
-
-- 1 Susan is smart and strong, FALSE
-- 2∴ so she is smart. FALSE
-
-- 1 Sara is either smart or strong TRUE
-- 2∴ so she is smart. FALSE
-
-- 1 Washington is in the United States. TRUE
-- 2 I live in Washington. FALSE
-- ∴3 .So I live in the United States. FALSE
-
-- 1 The state of Washington is in the United States. TRUE
-- 2 I live in the state of Washington. FALSE
-- 3∴ So I live in the United States. FALSE
-
-- 1 I live in the state of Washington. TRUE
-- 2 The state of Washington is in the United Kingdom. FALSE
-- 3∴ I live in the United Kingdom. FALSE
-
-- 1 six digit numbers are numbers TRUE
-- 2 there is no largest number TRUE
--3 ∴There is no largest six digit number FALSE
