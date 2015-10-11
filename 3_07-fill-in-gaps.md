@@ -1,6 +1,6 @@
 # 3.7 Fill in Gaps (Adding suppressed premises)
 
-> Adding supressed premisses to make the argument look good.
+**Adding supressed premisses to make the argument look good.**
 
 > For my birthday. my wife always gives me a sweater or a board game.
 This box does not contain a sweater because ir rattles when I shake it.
