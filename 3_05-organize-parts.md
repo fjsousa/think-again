@@ -8,7 +8,7 @@ so that fertilizer will push nitrogen levels too high.
 
 - 1 there is already a lot of nitrogen in the soil
 - 2∴ that fertilizer will push nitrogen levels too high
-- 3∴ That fertilizer won't help the reses bloom
+- 3∴ That fertilizer won't help the roses bloom
 
 ```
 1 -> 2 -> 3

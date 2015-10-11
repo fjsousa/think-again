@@ -32,7 +32,7 @@ Or even: *Every* argument with true premises and a false conclusion is *invalid*
 ###what validity is not:
 * a valid argument is not necessarily good
 
-###Kynds of arguments
+###Kinds of arguments
 |	      	  |True Conclusion		|False Conclusion     |
 |-----------------|-----------------------------|---------------------|
 |True Premises	  | Some Valid, Some not	|All Invalid          |

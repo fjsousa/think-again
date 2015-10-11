@@ -1,12 +1,12 @@
 # 3.7 Fill in Gaps (Adding suppressed premises)
 
-**Adding supressed premisses to make the argument look good.**
+**Adding suppressed premises to make the argument look good.**
 
 > For my birthday. my wife always gives me a sweater or a board game.
 This box does not contain a sweater because ir rattles when I shake it.
 So, this time she must have given me a board game.
 
-Arg. without supressed premisses (1st step)
+Arg. without suppressed premises (1st step)
 - 1 This box rattles when I shake it
 - 2∴ This box doesn't contain a sweater
 
