@@ -21,6 +21,8 @@ Inclusive "or", not suggesting that it can't be both.
 - 2. Q
 - c3. PVQ
 
+and
+
 - 1. P
 - c2. PVQ
 
