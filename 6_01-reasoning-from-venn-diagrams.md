@@ -1,7 +1,7 @@
 #6.1 Reasoning from Venn Diagrams or thruth tables alone
 
 |P  |Q  |P Spoog Q|
-|-- |-- |--       |
+|--- |--- |----    |
 |T  |T  |T        |
 |T  |F  |T        |
 |F  |T  |F        |
@@ -30,7 +30,7 @@ Therefore, Jill is walking to the park.
 - C. Q
 
 |P | ~P | Q| T | ~T  |Q V T | P SPoog (Q V T) |       |
-|--|--  |--|---|--   |--    |---              |---    |
+|---|---  |---|---|---   |---    |---              |---    |
 |T |F   |T |T  | F   |T     |T                |       |
 |T |F   |T |F  | T   |T     |T                |       |
 |T |F   |F |T  | F   |T     |T                |       |
