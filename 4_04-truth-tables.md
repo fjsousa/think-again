@@ -1,13 +1,13 @@
 #4.4 Truth Tables
 
-]| P | Q | P&Q |
+| P | Q | P&Q |
 |---|---|-----|
 |T  |T  |T    |
 |T  |F  |F    |
 |F  |T  |F    |
 |F  |F  |F    |
 
-***Conjunction introduction inferences** are all going to be valid:
+**Conjunction introduction inferences** are all going to be valid:
 
 - 1. P
 - 2. Q
