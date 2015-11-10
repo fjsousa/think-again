@@ -7,17 +7,23 @@ and
 -(P&-Q) follows from if P, then Q
 
 ###Modus Ponens (form of inference)
+From the premises:
 
-- From P
+- P
 - if P, then Q
-- Infer
+
+Conclusion:
+
 - Q
 
 ###Modus Tallens 
+From the premises:
 
-- From Q
+- Q
 - if P, then Q
-- Infer
+
+Conclusion:
+
 - P
 
 If the argument:
