@@ -2,9 +2,7 @@
 
 >If I had been 4 ft tall, then I would have been in the Guinness Book of world records
 
-Is not a truth func. connective
-
-Because both propositions can be false, but the truth value of the proposition depends on how many philosophy prof. are less than 4ft tall.
+Is not a truth func. connective, because both propositions can be false, but the truth value of the proposition depends on how many philosophy prof. are less than 4ft tall.
 
 ##Subjunctive mode
 

@@ -20,4 +20,4 @@ can be false while the original is also false.
 
 Negating propositions is done with: **It is not the case...**.
 
-If not has the same value, then it is acting as an operator.
+If **not** has the same value, then it is acting as an operator.
