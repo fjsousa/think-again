@@ -19,12 +19,12 @@ Conclusion:
 ###Modus Tollens 
 From the premises:
 
-- Q
+- ~Q
 - if P, then Q
 
 Conclusion:
 
-- P
+- ~P
 
 If the argument:
 
