@@ -1,4 +1,4 @@
-#6.1 Reasoning from Venn Diagrams or thruth tables alone
+#6.1 Reasoning from Venn Diagrams or truth tables alone
 
 |P  |Q  |P Spoog Q|
 |--- |--- |----    |
@@ -8,9 +8,11 @@
 |F  |F  |T        |
 
 ###Ex.1 
-John is riding his bike SPooG Jill is walking to the park.
-Jill is walking to the park.
-Therefore, John is riding his bicycle.
+- John is riding his bike SPooG Jill is walking to the park.
+- Jill is walking to the park.
+- Therefore, John is riding his bicycle.
+
+or:
 
 - 1. P SPooG Q
 - 2. Q
@@ -19,10 +21,12 @@ Therefore, John is riding his bicycle.
 The arg. is valid.
 
 ###Ex.2
-John is riding his bike SPooG ( Jill is walking to the park or Frank is sick )
-Frank is not sick
-John is not riding his bicycle.
-Therefore, Jill is walking to the park.
+- John is riding his bike SPooG ( Jill is walking to the park or Frank is sick )
+- Frank is not sick
+- John is not riding his bicycle.
+- Therefore, Jill is walking to the park.
+
+or:
 
 - 1. P SPooG (Q V T)
 - 2. ~T

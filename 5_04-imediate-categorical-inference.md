@@ -1,4 +1,4 @@
-#5.4 Imediate Categorical Inference
+#5.4 Immediate Categorical Inference
 
 It is an inference with just 1 premise, in which both the premise and the conclusion are of the form A, E, I, O.
 
