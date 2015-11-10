@@ -16,7 +16,7 @@ Conclusion:
 
 - Q
 
-###Modus Tallens 
+###Modus Tollens 
 From the premises:
 
 - Q
