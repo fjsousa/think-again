@@ -7,11 +7,14 @@ It is an inference with just 1 premise, in which both the premise and the conclu
 - I: Some Fs are Gs
 - O: Some Fs are not Gs
 
-F catg - Subject term
+F cat - Subject term
+
 G cat - Predicate term
 
 ##Conversion
 
+|              |           |    |
+|-----              |--------           |-----    |
 |All Fs are Gs      |All Gs are Fs      |invalid  |
 |No Fs are Gs       |No Gs are Fs       |valid    |
 |Some Fs are Gs     |Some Gs are Fs     |valid    |
@@ -19,11 +22,9 @@ G cat - Predicate term
 
 ------
 
- All otters are authors -> Trotter the otter is an author.
+Valid Immediate Categorical Inferences:
 
-and
+- All otters are authors -> Trotter the otter is an author.
+- All sheep are brown. -> Therefore, Horace the sheep is brown.
 
-All sheep are brown. -> Therefore, Horace the sheep is brown.
 
-
-Are valid Immediate Categorical Inferences
