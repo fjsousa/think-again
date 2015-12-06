@@ -3,7 +3,7 @@
 - Starting point: Facts and observation of what you are trying to explain
 
 ### Virtues of Inference to the Best Explanation.
-- **Falsified/not Falsified**: A good explanation can't be refuting  by new facts
+- **Falsified/not Falsified**: A good explanation can't be refuted   by new facts
 - **Conservative**: Hipotesis needs to be conservative, and can't conflict with establish beliefs (ie, physics)
 - **Falsifiable/empty**: Has to be falsifiable, otherwise everything can be true
 - Hiptotesis **not deep or shalow**: relying on a principle that is not true
