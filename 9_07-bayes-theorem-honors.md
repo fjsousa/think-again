@@ -2,7 +2,7 @@
 
 Example: Probability of having cancer given that you tested positive:
 
-- Base rate (or prevalence) of this contition = 0.003
+- Base rate (or prevalence) of this condition = 0.003
 
 - sensitivity of this test = 0.99 = percentage of cases with the condition that test positive
 
@@ -10,7 +10,7 @@ Example: Probability of having cancer given that you tested positive:
 
 - Solution, or posterior probability = probability that you have the condition given that you tested positive
 
-| | Do have the condition| do not have the conditions | totals|
+| | Do have the condition do not have the conditions | totals|
 |----|----|-----|-----|
 |positive test result| 0.99x300 = 297 |997 |1294|
 |negative test result| 3 |0.99 x 99700 = 98703 |98706|
