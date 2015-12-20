@@ -12,4 +12,4 @@ The resason that warren Buffet gave is specially likely to be true because Warre
 - P2 Isaac Mizrahi is one of the trend setters in the fashion industry
 - C It is true that many people will experience today-s pants as constricting and come to see bell-bottom pants as trendy.
 
-The argument stats that the reason Isaac Mizrahi gives are specially likely to be true because Isaac Mizrahi said it was true. Because people that follow fashion follow what Isaac Mizrahi says to be true. It's a good inductive argument.
+The argument states that the reasons Isaac Mizrahi gives are specially likely to be true because Isaac Mizrahi said it was true. Because people that follow fashion follow what Isaac Mizrahi says to be true. It's a good inductive argument.
