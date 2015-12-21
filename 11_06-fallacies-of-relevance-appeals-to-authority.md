@@ -23,5 +23,10 @@ According to this, there's 3 kinds of appeals to authority:
 
 Theres justified and unjustified appeals to authority. 
 
+#### Another example
+> I think, therefore, I am 
+
+Is an appeal to authority.
+
 - Justified: They provide reasons to belive
 - Unjustified, they don't provide enough reasons to believe.
