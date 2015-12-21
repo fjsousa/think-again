@@ -8,7 +8,7 @@
 
 The conclusion is in the premises. Circularity is one extreme example of a more common fallacy which is begging the question.
 
-- **Begging the question**: when you have no reason to believe all the premises of an argument that is independent of the reason that you have to believe its conclusion. It includes circularity.
+**Begging the question**: when you have no reason to believe all the premises of an argument that is independent of the reason that you have to believe its conclusion. It includes circularity.
 
 - P1 The pope says that he is infallible.
 - P2 Whatever the Pope says is always is right.
