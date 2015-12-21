@@ -1,6 +1,6 @@
 # 11-12 Circularity and Begging the Question
 
-- **Circularity**: when the conclusion of an argument is among the premises.
+**Circularity**: when the conclusion of an argument is among the premises.
 
 - P1 This argument has a premise
 - P2 This argument has a conclusion
