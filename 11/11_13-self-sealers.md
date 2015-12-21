@@ -10,9 +10,3 @@ Most self-sealing arguments are simply arguments that contain self-sealing propo
 
 Premise: Not every argument has a conclusion.
 > See?
-
-
-> I think, therefore, I am 
-
-Is an appeal to authority.
-
