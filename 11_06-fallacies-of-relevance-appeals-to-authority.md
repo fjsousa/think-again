@@ -20,3 +20,8 @@ According to this, there's 3 kinds of appeals to authority:
 - 2) **Supporters**: begins with premises about a particular person who is making a point, and ends with a conclusion to the effect that the person's **reasons** are especially compelling.
 
 - 3) **Affirmers**: begins with premises about a particular person who is making a point, and ends with a conclusion **affirming** that person's point.
+
+Theres justified and unjustified appeals to authority. 
+
+- Justified: They provide reasons to belive
+- Unjustified, they don't provide enough reasons to believe.
