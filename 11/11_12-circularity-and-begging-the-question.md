@@ -24,4 +24,4 @@ Ex 2:
 - Whatever the Bible says is the truth because it was writen by god.
 - God exists.
 
-
+Unless we already believe that god exists, we have no reason to believe that the the Bible is always right.
